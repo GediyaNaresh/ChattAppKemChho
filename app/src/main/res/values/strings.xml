@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Kem Chho</string>
+    <string name="type_a_message">Type a message...</string>
+    <string name="logout">Logout</string>
+    <string name="verify_919737833272">Verify </string>
+    <string name="enter_the_otp_code_to_verify_your_phone_number">Enter the OTP code to verify your phone number.</string>
+</resources>

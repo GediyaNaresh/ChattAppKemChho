@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "773526368075",
+    "project_id": "auspicious-seat-309613",
+    "storage_bucket": "auspicious-seat-309613.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:773526368075:android:10f33b6cc49e2e8814c2ce",
+        "android_client_info": {
+          "package_name": "com.nareshgediya.kemchho"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "773526368075-nhophiadt0kug313pdn8ikpjkill0ati.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD520dChKfn24Drg_J-G3TJynDlHvVb-eM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "773526368075-nhophiadt0kug313pdn8ikpjkill0ati.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
